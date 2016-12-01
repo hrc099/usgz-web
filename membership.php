@@ -64,101 +64,111 @@
                                 <table class="table table-striped">
                                     <thead>
                                         <tr>
-                                            <th>Ime</th>
                                             <th>Prezime</th>
-                                            <th>Kategorija</th>
+                                            <th>Ime</th>
+                                            <th>Vrsta članstva</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Augustin</td>
-                                            <td>Mutak</td>
-                                            <td>Redovno članstvo</td>
+                                            <td>Brajković</td>
+                                            <td>Doroteja</td>
+                                            <td>Redovno</td>
                                         </tr>
                                         <tr>
-                                            <td>Hrvoje</td>
-                                            <td>Husnjak</td>
-                                            <td>Redovno članstvo</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Vito</td>
-                                            <td>Prtenjača</td>
-                                            <td>Redovno članstvo</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Ante</td>
-                                            <td>Malinar</td>
-                                            <td>Redovno članstvo</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Karlo</td>
-                                            <td>Imrović</td>
-                                            <td>Redovno članstvo</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Miljenko</td>
                                             <td>Bulaš</td>
-                                            <td>Počasno članstvo</td>
+                                            <td>Miljenko</td>
+                                            <td>Počasno</td>
                                         </tr>
                                         <tr>
-                                            <td>Tibor</td>
-                                            <td>Horvat</td>
-                                            <td>Počasno članstvo</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Andrija</td>
-                                            <td>Ivančić</td>
-                                            <td>Počasno članstvo</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Ivor</td>
-                                            <td>Horvat</td>
-                                            <td>Redovno članstvo</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Nikola</td>
-                                            <td>Jukić</td>
-                                            <td>Redovno članstvo</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Mislav</td>
-                                            <td>Štih</td>
-                                            <td>Redovno članstvo</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Ivan</td>
                                             <td>Cindrić</td>
-                                            <td>Redovno članstvo</td>
+                                            <td>Ivan</td>
+                                            <td>Redovno</td>
                                         </tr>
                                         <tr>
-                                            <td>Daniel</td>
-                                            <td>Martinović</td>
-                                            <td>Redovno članstvo</td>
+                                            <td>Horvat</td>
+                                            <td>Ivor</td>
+                                            <td>Redovno</td>
                                         </tr>
                                         <tr>
-                                            <td>Luka</td>
+                                            <td>Horvat</td>
+                                            <td>Tibor</td>
+                                            <td>Počasno</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Husnjak</td>
+                                            <td>Hrvoje</td>
+                                            <td>Redovno</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Imrović</td>
+                                            <td>Karlo</td>
+                                            <td>Redovno</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ivančić</td>
+                                            <td>Andrija</td>
+                                            <td>Počasno</td>
+                                        </tr>
+                                        <tr>
                                             <td>Jović</td>
-                                            <td>Redovno članstvo</td>
+                                            <td>Luka</td>
+                                            <td>Redovno</td>
                                         </tr>
                                         <tr>
-                                            <td>Tena</td>
-                                            <td>Malinar</td>
-                                            <td>Redovno članstvo</td>
+                                            <td>Jukić</td>
+                                            <td>Nikola</td>
+                                            <td>Redovno</td>
                                         </tr>
                                         <tr>
-                                            <td>Dino</td>
-                                            <td>Trivunović</td>
-                                            <td>Redovno članstvo</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Martina</td>
                                             <td>Jurič</td>
-                                            <td>Redovno članstvo</td>
+                                            <td>Martina</td>
+                                            <td>Redovno</td>
                                         </tr>
                                         <tr>
-                                            <td>Ana</td>
+                                            <td>Malinar</td>
+                                            <td>Ante</td>
+                                            <td>Redovno</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Malinar</td>
+                                            <td>Tena</td>
+                                            <td>Redovno</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Martinović</td>
+                                            <td>Daniel</td>
+                                            <td>Redovno</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Mutak</td>
+                                            <td>Augustin</td>
+                                            <td>Redovno</td>
+                                        </tr>
+                                        <tr>
                                             <td>Pavlović</td>
-                                            <td>Redovno članstvo</td>
+                                            <td>Ana</td>
+                                            <td>Redovno</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Prtenjača</td>
+                                            <td>Vito</td>
+                                            <td>Redovno</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Štih</td>
+                                            <td>Mislav</td>
+                                            <td>Redovno</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Telenta</td>
+                                            <td>Lara</td>
+                                            <td>Redovno</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Trivunović</td>
+                                            <td>Dino</td>
+                                            <td>Redovno</td>
                                         </tr>
                                     </tbody>
                                 </table>
